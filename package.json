@@ -1,0 +1,14 @@
+{
+  "name": "mcp-youtube",
+  "version": "1.0.0",
+  "description": "MCP Server with YouTube API integration",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/config": "^0.0.1",
+    "@modelcontextprotocol/server-filesystem": "^0.0.1"
+  }
+}
